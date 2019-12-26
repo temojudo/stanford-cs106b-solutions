@@ -1,8 +1,8 @@
 #Programming Abstractions in C++ : CS106B Stanford
 
-Assignment 1: http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1136/handouts/050%20Assignment%201.pdf
+Assignment 1: Welcome to C++ http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1136/handouts/050%20Assignment%201.pdf
 
-Assignment 2: http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1136/handouts/090%20Assignment%202.pdf
+Assignment 2: Fun with Collections http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1136/handouts/090%20Assignment%202.pdf
 
 Assignment 3: Recursion! http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1136/handouts/110%20Assignment%203.pdf
 
